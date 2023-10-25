@@ -1,9 +1,21 @@
-# Your Project's Title...
-Your project's description...
+# WKND with Web Components
+
+This experiment uses Web Components to render the WKND content
+from the Edge Delivery pipeline.
+
+See also https://github.com/hlxsites/wknd which is a "plain blocks"
+variant that renders the same content, and https://wknd.site/ which
+is the original AEM Classic rendering of that content.
+
+And https://www.aem.live/home of course.
+
+Note that we're not aiming for the same rendering as the original
+WKND example, this is more meant to demonstrate how to use Web
+Components efficiently in an Edge Delivery project.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--wknd-webcomponents--bdelacretaz.hlx.page/
+- Live: https://main--wknd-webcomponents--bdelacretaz.hlx.live/
 
 ## Installation
 
